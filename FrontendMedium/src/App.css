@@ -1,0 +1,12 @@
+
+.App{
+  display: flex;
+  overflow: hidden;
+
+}
+.body{
+  font-family: source-serif-pro, Georgia, Cambria, "Times New Roman", Times, serif;
+  width: fit-content;
+  min-width: 200px; /* Prevent the container from becoming too narrow */
+  max-width: 80%; 
+}
